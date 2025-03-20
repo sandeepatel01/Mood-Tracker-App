@@ -28,3 +28,14 @@ The Mood Tracker App allows users to track their daily moods using a simple and 
 - `index.html`: The main HTML file for the app.
 - `style.css`: The CSS file for styling the app.
 - `index.js`: The JavaScript file for handling user interactions and data storage.
+
+## Deployment
+
+You can access the deployed app at the following link:
+[Deployment Link](https://mood-tracker-app-six.vercel.app/)
+
+## Screenshots
+
+![Home Screen](home.png)
+![Mood Selection](calendar.png)
+![Mood History](history.png)
